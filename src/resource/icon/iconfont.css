@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3911197 */
+  src: url('iconfont.woff2?t=1677076722065') format('woff2'),
+       url('iconfont.woff?t=1677076722065') format('woff'),
+       url('iconfont.ttf?t=1677076722065') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon--todo:before {
+  content: "\e600";
+}
+
+.icon-TODO:before {
+  content: "\ea34";
+}
+

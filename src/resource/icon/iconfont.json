@@ -1,0 +1,23 @@
+{
+  "id": "3911197",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6483970",
+      "name": "1-todo",
+      "font_class": "-todo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "23403979",
+      "name": "TODO",
+      "font_class": "TODO",
+      "unicode": "ea34",
+      "unicode_decimal": 59956
+    }
+  ]
+}
